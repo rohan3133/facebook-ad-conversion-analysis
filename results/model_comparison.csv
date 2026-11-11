@@ -1,0 +1,4 @@
+"Model","Accuracy","Balanced_Accuracy","Adjusted_Rand_Index","Recall_Low","Recall_Average","Recall_High","Features"
+"Naive Bayes",0.912060301507538,0.812669105410199,0.469379241220176,0.934426229508197,0.655172413793103,0.666666666666667,"All ad features (incl. Total_Conversion)"
+"Random Forest",0.934673366834171,0.650341651334358,0.517249638300971,0.980874316939891,0.448275862068966,0,"All ad features (incl. Total_Conversion)"
+"Random Forest (balanced)",0.874371859296482,0.793729699949563,0.424075432601554,0.885245901639344,0.793103448275862,0.333333333333333,"All ad features (incl. Total_Conversion)"
